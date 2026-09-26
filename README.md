@@ -1,36 +1,28 @@
-# Azure-Cost-Management-Budget-Alerting
 # Azure Cost Management Budget and Anomaly Alerting
 
-## Project Details
-
-**Course Code:** 24CC3046-P016
-**Project Title:** Azure Cost Management Budget and Anomaly Alerting
-**Domain:** Cost Management
-
-## Problem Statement
-
-Organizations often face challenges in monitoring cloud spending. Budget alerts may arrive after costs have already been incurred, and untagged resources make cost allocation difficult.
-
-## Objectives
-
-* Monitor Azure cloud costs.
-* Generate budget overrun alerts.
-* Identify the top five monthly cost drivers.
-* Improve visibility into cloud resource spending.
-* Support better cost optimization decisions.
-
-## Use Cases
-
-* Alert department owners when budgets are exceeded.
-* Identify the top five cost drivers every month.
-
-## Expected Benefits
-
-* Better cost control.
-* Improved budgeting and forecasting.
-* Increased accountability through resource tagging.
-* Reduced unnecessary cloud expenditure.
+## Project Title
+Azure Cost Management Budget and Anomaly Alerting
 
 ## Student
+T. Naga Bala Nandini
+2400031197
 
-Nandini
+## Objective
+Monitor Azure cloud spending using budgets, alerts, resource tagging, and anomaly detection.
+
+## Features
+- Budget Monitoring
+- Cost Alerts
+- Resource Tagging
+- Cost Analysis
+- Anomaly Detection
+
+## Azure Services Used
+- Azure Cost Management
+- Azure Budgets
+- Azure Monitor
+- Resource Groups
+- Storage Account
+
+## Outcome
+Improved cost visibility and proactive cloud cost control.
